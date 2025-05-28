@@ -1,7 +1,18 @@
-### 📖
-<div style="display: inline-block;"> <br>
-        <img alt="logo js"   height="50" width="60" src="https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor">
-        <img alt="logo ts"   height="50" width="60" src="https://icongr.am/devicon/typescript-original.svg?size=100&color=currentColor">
-        <img alt="logo html" height="50" width="60" src="https://icongr.am/devicon/html5-original.svg?size=100&color=currentColor">
-        <img alt="logo css"  height="50" width="50" src="https://icongr.am/devicon/css3-original.svg?size=100&color=currentColor">
-    </div>
+# 📖 Studying
+
+## Learnings  
+<p align="left">
+    <img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" width="67" height="67" alt="Python">  
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="67" height="67" alt="JavaScript">  
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="67" height="67" alt="HTML">  
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="67" height="67" alt="CSS">  
+</p>
+
+<br>  
+
+## Links  
+<p align="left">
+    <a href="https://www.linkedin.com/in/cesarchavesterra/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="67" height="67" alt="LinkedIn">
+    </a>
+</p>
